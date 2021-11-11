@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello world!! 👋, I'm Hatim
+
+
+
+# About me:
+A junior Data Scientist he fell in love with data. Always striving for learning and self-development. Interested in data enablement for improving lifestyle level. 
+
+- 🌱 I’m currently learning Data Science at SDAIA T5 Bootcamp.
+- 👯 I’m looking to collaborate on DS/AI Projects.
+- 💬 Ask me about anything [here](7atem.shehri@gmail.com)
+
 
 <!--
-**Hashehri/hashehri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashehri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashehri)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-## 🌱 I’m currently learning Data Science at SDAIA Bootcamp
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
