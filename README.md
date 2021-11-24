@@ -10,8 +10,12 @@ A junior Data Scientist he fell in love with data. Always striving for learning 
 - 💬 Ask me about anything [here](7atem.shehri@gmail.com)
 
 
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashehri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=Hashehri&color=blue)
+![](https://komarev.com/ghpvc/?username=Hashehri&color=green)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashehri)](https://github.com/anuraghazra/github-readme-stats)
 
