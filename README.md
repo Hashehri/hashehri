@@ -5,7 +5,7 @@
 ## About me:
 A junior Data Scientist he fell in love with data. Always striving for learning and self-development. Interested in data enablement for improving lifestyle level. 
 
-- 🌱 I’m currently learning Data Science at SDAIA T5 Bootcamp.
+- 🌱 I’m currently working as Data Scientist Assistant at DataPatterns.
 - 👯 I’m looking to collaborate on DS/AI Projects.
 - 💬 Ask me about anything [here](7atem.shehri@gmail.com)
 
